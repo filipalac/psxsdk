@@ -12,6 +12,7 @@ var searchData=
   ['popcount_5ffunc',['popcount_func',['../strings_8c.html#a215c8786d4f3d7a79d1109d6c6dda7cd',1,'popcount_func(popcount, unsigned int):&#160;strings.c'],['../strings_8c.html#ad5c86877c09b50470e4a288fb259cfe0',1,'popcount_func(popcountl, unsigned long):&#160;strings.c'],['../strings_8c.html#a8e6816f4b2b8cf41405a9de46f397dbd',1,'popcount_func(popcountll, unsigned long long):&#160;strings.c'],['../strings_8c.html#a168920757dbe17606b415d97bd103722',1,'popcount_func(popcount32, uint32_t):&#160;strings.c'],['../strings_8c.html#a32d7bf9a3d1ffa4a33b4956dce046b8b',1,'popcount_func(popcount64, uint64_t):&#160;strings.c']]],
   ['popcountl',['popcountl',['../strings_8h.html#a8a872fb5a423ba7c04fdca8d8e1bb6fe',1,'strings.h']]],
   ['popcountll',['popcountll',['../strings_8h.html#a30709e726f112d9bf5eefcadd71af050',1,'strings.h']]],
+  ['popmatrix',['PopMatrix',['../meidogte_8h.html#aa50d265a38c2f8fa28d531177f3524b8',1,'meidogte.h']]],
   ['pow',['pow',['../w__pow_8c.html#aa56c9494c95edf68386375e97d64159b',1,'w_pow.c']]],
   ['powf',['powf',['../float__wrapper_8c.html#ac6b287549be087f6f0bf03b6fe30499e',1,'powf(float x, float y):&#160;float_wrapper.c'],['../math_8h.html#ac6b287549be087f6f0bf03b6fe30499e',1,'powf(float x, float y):&#160;float_wrapper.c'],['../wrappers_8c.html#ac6b287549be087f6f0bf03b6fe30499e',1,'powf(float x, float y):&#160;wrappers.c']]],
   ['prfont_5fbl',['PRFONT_BL',['../psxgpu_8h.html#af4f97cb006778ab2544c9e4e134a98ca',1,'PRFONT_BL(unsigned char f):&#160;gpu.c'],['../gpu_8c.html#af4f97cb006778ab2544c9e4e134a98ca',1,'PRFONT_BL(unsigned char f):&#160;gpu.c']]],
@@ -34,6 +35,7 @@ var searchData=
   ['psx_5frunexestage2_5fend',['PSX_RunExeStage2_END',['../runexe_8c.html#ac8b66d16adc3b49ed75c6f5a663bfa1d',1,'runexe.c']]],
   ['psx_5fwarmreboot',['PSX_WarmReboot',['../psxsdk_8c.html#ab5ef0d1c015c9c060c0d340a44f1bc44',1,'psxsdk.c']]],
   ['psxsdk_5fsetup',['psxsdk_setup',['../setup_8c.html#a4e37e8d0b0d140df38d39a4ccd93108a',1,'setup.c']]],
+  ['pushmatrix',['PushMatrix',['../meidogte_8h.html#a16ced344e89fbf68fb10b44bfdeb82a7',1,'meidogte.h']]],
   ['putchar',['putchar',['../stdio_8h.html#af4de2514b7778805db3815e8dd6cf09a',1,'putchar(int c):&#160;libc.c'],['../libc_8c.html#af4de2514b7778805db3815e8dd6cf09a',1,'putchar(int c):&#160;libc.c']]],
   ['puts',['puts',['../stdio_8h.html#a24df0c04767d20bfc8337baa088605ff',1,'puts(const char *str):&#160;libc.c'],['../libc_8c.html#a24df0c04767d20bfc8337baa088605ff',1,'puts(const char *str):&#160;libc.c']]]
 ];

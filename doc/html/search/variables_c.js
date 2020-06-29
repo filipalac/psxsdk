@@ -1,5 +1,6 @@
 var searchData=
 [
+  ['m',['m',['../structMATRIX.html#aa03ac8ccfb1dfc125caf051bd6be284c',1,'MATRIX']]],
   ['magic',['magic',['../structins.html#a0e5c0ef6dffb9606d72b2c2b33eb06c8',1,'ins::magic()'],['../struct____attribute____.html#a489bcfb2ab20fed0d93844f72a47c65f',1,'__attribute__::magic()'],['../f3m_8c.html#ad7cd56f245d5dbca367259b8695c3c6e',1,'magic():&#160;f3m.c']]],
   ['magic_5fscrm',['magic_scrm',['../struct____attribute____.html#aa2a56bd0e85dd9c7eb628f1eefb34d7d',1,'__attribute__']]],
   ['maxvolume',['maxvolume',['../structplayer__s.html#a9e33cf4247c0395448e0b4337664bfde',1,'player_s']]],
@@ -7,6 +8,7 @@ var searchData=
   ['mem_5fhxx',['mem_hxx',['../structvchn__s.html#a402b761472a2b5d61b51aef032a06004',1,'vchn_s']]],
   ['mem_5foxx',['mem_oxx',['../structvchn__s.html#a6aa5457b8a351e8fb98aed11ddbeca9d',1,'vchn_s']]],
   ['memory',['memory',['../structpsx__info_1_1system.html#a95e9c8433456eed32ee8b64308ce7778',1,'psx_info::system']]],
+  ['midvol',['midvol',['../structvchn__s.html#a3e08b053126e3955981ef4d6b1254eda',1,'vchn_s']]],
   ['mod',['mod',['../structplayer__s.html#a70b8ab05f506f809cd9afc99200d5ba0',1,'player_s']]],
   ['modbase',['modbase',['../structplayer__s.html#a1fbc958f686741b23d2eab2ab25deb9f',1,'player_s']]],
   ['mode',['mode',['../structFILE.html#ae65fa42375bf2dd80303a67a562d7783',1,'FILE']]],

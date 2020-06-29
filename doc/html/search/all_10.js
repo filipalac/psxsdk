@@ -1,6 +1,7 @@
 var searchData=
 [
   ['pack',['pack',['../structins.html#a7bd27b2f8b9d4b54cef7ce11f112e310',1,'ins::pack()'],['../f3m_8c.html#aa028dfddff82d2d17f7651ffab00761f',1,'pack():&#160;f3m.c']]],
+  ['pad',['pad',['../structSVECTOR.html#a386c5c80985cb6b59e57a415617a609d',1,'SVECTOR']]],
   ['pad_2ec',['pad.c',['../pad_8c.html',1,'']]],
   ['pad_5fcircle',['PAD_CIRCLE',['../psxpad_8h.html#a5b13cc28c3e9fd60c4aa8342cad3446c',1,'psxpad.h']]],
   ['pad_5fcross',['PAD_CROSS',['../psxpad_8h.html#a0372125cfe2bb34a66ac4c3ab6065bea',1,'psxpad.h']]],
@@ -25,7 +26,6 @@ var searchData=
   ['pad_5fstart',['PAD_START',['../psxpad_8h.html#a1754f0c837e05e32d0850bb1f427c336',1,'psxpad.h']]],
   ['pad_5ftriangle',['PAD_TRIANGLE',['../psxpad_8h.html#a9221aecfa49642278b962529ddbb39c5',1,'psxpad.h']]],
   ['pad_5fup',['PAD_UP',['../psxpad_8h.html#acdb66227c1cd67fa1c5a98548c75b504',1,'psxpad.h']]],
-  ['padread_5fbuf',['padread_buf',['../psxsdk_8c.html#a1d105292defec38b30df02d50ddf2aeb',1,'psxsdk.c']]],
   ['padsio_5fbaud',['PADSIO_BAUD',['../pad_8c.html#acdc9a4ef5ec30a444c9349b201b1ea80',1,'pad.c']]],
   ['padsio_5fctrl',['PADSIO_CTRL',['../pad_8c.html#aeed8d4b2a6a4adc9fcecd1ebe7d7f9a1',1,'pad.c']]],
   ['padsio_5fdata',['PADSIO_DATA',['../pad_8c.html#a5e3f08c0f56d084619e1402af14811fb',1,'pad.c']]],
@@ -45,6 +45,7 @@ var searchData=
   ['pat_5fpara',['pat_para',['../structplayer__s.html#a569ee260a2aa80ad84e74e93fd1364c1',1,'player_s']]],
   ['pat_5fpos',['pat_pos',['../structModMusic.html#a2dc34fe1aa5c7fd23be5f6dfbd47fa7d',1,'ModMusic']]],
   ['patptr',['patptr',['../structplayer__s.html#ae0fa290b22546b4b5fc8e97ea99dd026',1,'player_s']]],
+  ['patptr_5fnext',['patptr_next',['../structplayer__s.html#ad33724d51fd353bc9d75aef77c6d9e7c',1,'player_s']]],
   ['pattern_5fdata',['pattern_data',['../structModMusic.html#a4f279f645c007e434d897b480510e748',1,'ModMusic']]],
   ['pattern_5fnum',['pattern_num',['../structModMusic.html#a94311ad25e92db0711cc9dfb5f25103d',1,'ModMusic']]],
   ['pattern_5frow_5fnum',['pattern_row_num',['../structModMusic.html#a4a84e33e38cc3b0734b3901276e8cf38',1,'ModMusic']]],
@@ -63,6 +64,7 @@ var searchData=
   ['popcount_5ffunc',['popcount_func',['../strings_8c.html#ab9c66c27f1dd0d04f6567f5e83bd5bd8',1,'popcount_func():&#160;strings.c'],['../strings_8c.html#a215c8786d4f3d7a79d1109d6c6dda7cd',1,'popcount_func(popcount, unsigned int):&#160;strings.c'],['../strings_8c.html#ad5c86877c09b50470e4a288fb259cfe0',1,'popcount_func(popcountl, unsigned long):&#160;strings.c'],['../strings_8c.html#a8e6816f4b2b8cf41405a9de46f397dbd',1,'popcount_func(popcountll, unsigned long long):&#160;strings.c'],['../strings_8c.html#a168920757dbe17606b415d97bd103722',1,'popcount_func(popcount32, uint32_t):&#160;strings.c'],['../strings_8c.html#a32d7bf9a3d1ffa4a33b4956dce046b8b',1,'popcount_func(popcount64, uint64_t):&#160;strings.c']]],
   ['popcountl',['popcountl',['../strings_8h.html#a8a872fb5a423ba7c04fdca8d8e1bb6fe',1,'strings.h']]],
   ['popcountll',['popcountll',['../strings_8h.html#a30709e726f112d9bf5eefcadd71af050',1,'strings.h']]],
+  ['popmatrix',['PopMatrix',['../meidogte_8h.html#aa50d265a38c2f8fa28d531177f3524b8',1,'meidogte.h']]],
   ['pos',['pos',['../structFILE.html#aad42c1377afb068e9c0f015961657a3c',1,'FILE']]],
   ['pow',['pow',['../w__pow_8c.html#aa56c9494c95edf68386375e97d64159b',1,'w_pow.c']]],
   ['powf',['powf',['../float__wrapper_8c.html#ac6b287549be087f6f0bf03b6fe30499e',1,'powf(float x, float y):&#160;float_wrapper.c'],['../math_8h.html#ac6b287549be087f6f0bf03b6fe30499e',1,'powf(float x, float y):&#160;float_wrapper.c'],['../wrappers_8c.html#ac6b287549be087f6f0bf03b6fe30499e',1,'powf(float x, float y):&#160;wrappers.c']]],
@@ -144,6 +146,7 @@ var searchData=
   ['psxspu_2eh',['psxspu.h',['../psxspu_8h.html',1,'']]],
   ['psxutil_2eh',['psxutil.h',['../psxutil_8h.html',1,'']]],
   ['ptrdiff_5ft',['ptrdiff_t',['../stdint_8h.html#aa3b2662c4abac667dee9987452b71fbc',1,'stdint.h']]],
+  ['pushmatrix',['PushMatrix',['../meidogte_8h.html#a16ced344e89fbf68fb10b44bfdeb82a7',1,'meidogte.h']]],
   ['putchar',['putchar',['../stdio_8h.html#af4de2514b7778805db3815e8dd6cf09a',1,'putchar(int c):&#160;libc.c'],['../libc_8c.html#af4de2514b7778805db3815e8dd6cf09a',1,'putchar(int c):&#160;libc.c']]],
   ['puts',['puts',['../stdio_8h.html#a24df0c04767d20bfc8337baa088605ff',1,'puts(const char *str):&#160;libc.c'],['../libc_8c.html#a24df0c04767d20bfc8337baa088605ff',1,'puts(const char *str):&#160;libc.c']]]
 ];

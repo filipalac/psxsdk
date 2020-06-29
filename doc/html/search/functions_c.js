@@ -30,5 +30,7 @@ var searchData=
   ['modstop',['MODStop',['../modplay_8c.html#ae9e4f7d8708e018d9897df40d63f22ca',1,'MODStop(ModMusic *m):&#160;modplay.c'],['../modplay_8h.html#ae9e4f7d8708e018d9897df40d63f22ca',1,'MODStop(ModMusic *m):&#160;modplay.c']]],
   ['modunload',['MODUnload',['../modplay_8c.html#a315c13d8b6dd2dccab6209e573b0b8cf',1,'MODUnload(ModMusic *m):&#160;modplay.c'],['../modplay_8h.html#a315c13d8b6dd2dccab6209e573b0b8cf',1,'MODUnload(ModMusic *m):&#160;modplay.c']]],
   ['moduploadsamples',['MODUploadSamples',['../modplay_8c.html#a18ab0598438992a3863eace3ea8c8048',1,'MODUploadSamples(ModMusic *m, int base_addr):&#160;modplay.c'],['../modplay_8h.html#a18ab0598438992a3863eace3ea8c8048',1,'MODUploadSamples(ModMusic *m, int base_addr):&#160;modplay.c']]],
-  ['moveimage',['MoveImage',['../psxgpu_8h.html#ada0203859e4e290df540280ee437ecd5',1,'MoveImage(int src_x, int src_y, int dst_x, int dst_y, int w, int h):&#160;gpu.c'],['../gpu_8c.html#ada0203859e4e290df540280ee437ecd5',1,'MoveImage(int src_x, int src_y, int dst_x, int dst_y, int w, int h):&#160;gpu.c']]]
+  ['moveimage',['MoveImage',['../psxgpu_8h.html#ada0203859e4e290df540280ee437ecd5',1,'MoveImage(int src_x, int src_y, int dst_x, int dst_y, int w, int h):&#160;gpu.c'],['../gpu_8c.html#ada0203859e4e290df540280ee437ecd5',1,'MoveImage(int src_x, int src_y, int dst_x, int dst_y, int w, int h):&#160;gpu.c']]],
+  ['mulmatrix',['MulMatrix',['../meidogte_8h.html#ad7de40bbb84fec294aa98d94be47ab08',1,'meidogte.h']]],
+  ['mulmatrix0',['MulMatrix0',['../meidogte_8h.html#a7dd5f8ed56070b97a4a328df0d5ce4cc',1,'meidogte.h']]]
 ];

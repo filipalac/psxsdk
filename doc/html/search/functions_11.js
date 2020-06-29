@@ -16,5 +16,6 @@ var searchData=
   ['rindex',['rindex',['../strings_8h.html#a83d9aa3251fdee263ad43bf75933de46',1,'strings.h']]],
   ['rint',['rint',['../s__rint_8c.html#ae1f9edd5049d3ff63b0373a3c15c38c1',1,'s_rint.c']]],
   ['rintf',['rintf',['../float__wrapper_8c.html#a48f9341b9310fefa5dd1b0c8c84c99df',1,'rintf(float x):&#160;float_wrapper.c'],['../math_8h.html#a48f9341b9310fefa5dd1b0c8c84c99df',1,'rintf(float x):&#160;float_wrapper.c'],['../wrappers_8c.html#a48f9341b9310fefa5dd1b0c8c84c99df',1,'rintf(float x):&#160;wrappers.c']]],
+  ['rotmatrix',['RotMatrix',['../matrix_8c.html#abf0e8850281eeea2811c46d7f5a6a6b8',1,'RotMatrix(SVECTOR *r, MATRIX *m):&#160;matrix.c'],['../meidogte_8h.html#abf0e8850281eeea2811c46d7f5a6a6b8',1,'RotMatrix(SVECTOR *r, MATRIX *m):&#160;matrix.c']]],
   ['run_5fcop_5finstruction',['run_cop_instruction',['../psx_8h.html#ae97afc8d28f1ee1e45b4c1ff6f83015b',1,'run_cop_instruction(unsigned char cop_num, unsigned int operation):&#160;cop.c'],['../cop_8c.html#ae97afc8d28f1ee1e45b4c1ff6f83015b',1,'run_cop_instruction(unsigned char cop_num, unsigned int operation):&#160;cop.c']]]
 ];

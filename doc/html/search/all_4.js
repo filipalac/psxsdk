@@ -1,8 +1,8 @@
 var searchData=
 [
-  ['d2_5fbcr',['D2_BCR',['../gpu_8c.html#af5253fd218e3204fc660e092c8753ed1',1,'gpu.c']]],
-  ['d2_5fchcr',['D2_CHCR',['../gpu_8c.html#a5b1016560e8ccf4b2943566523269aaf',1,'gpu.c']]],
-  ['d2_5fmadr',['D2_MADR',['../gpu_8c.html#a09ae0af2d84e4e036d14d18b4d0acd2d',1,'gpu.c']]],
+  ['d2_5fbcr',['D2_BCR',['../psxgpu_8h.html#af5253fd218e3204fc660e092c8753ed1',1,'psxgpu.h']]],
+  ['d2_5fchcr',['D2_CHCR',['../psxgpu_8h.html#a5b1016560e8ccf4b2943566523269aaf',1,'psxgpu.h']]],
+  ['d2_5fmadr',['D2_MADR',['../psxgpu_8h.html#a09ae0af2d84e4e036d14d18b4d0acd2d',1,'psxgpu.h']]],
   ['dat_5fpara',['dat_para',['../structins.html#a25418cae7f447c093d72ed50df903e2d',1,'ins::dat_para()'],['../f3m_8c.html#adb11c94be8442dc04412928a8a6ff6a7',1,'dat_para():&#160;f3m.c']]],
   ['dat_5fpara_5fh',['dat_para_h',['../structins.html#a4d0d131346ce3ba1f85b51b1b4bc0357',1,'ins::dat_para_h()'],['../f3m_8c.html#a7baa3eae2dc76aef0abf3b03577d456f',1,'dat_para_h():&#160;f3m.c']]],
   ['data',['data',['../structGsImage.html#a911f9bc144bfeb7a1f7a4a761f8107c0',1,'GsImage::data()'],['../structSsVag.html#a32e792329ffd00dac0bb87919ac19a75',1,'SsVag::data()'],['../structModSample.html#a541eeaaeb296d97b69f9cc00d9cb3d3b',1,'ModSample::data()']]],
@@ -19,7 +19,7 @@ var searchData=
   ['dither',['dither',['../structGsDrawEnv.html#aaaed8f80f352d5e88563072418176aa3',1,'GsDrawEnv']]],
   ['divisions_5fsec',['divisions_sec',['../structModMusic.html#a64991ec01bd181942a99411e69713571',1,'ModMusic']]],
   ['domain',['DOMAIN',['../math_8h.html#a5467ce86fff063609c6ae5b8dc517471',1,'math.h']]],
-  ['dpcr',['DPCR',['../exception_8c.html#a16a6dbd07aa9f49d1b164250247fd453',1,'DPCR():&#160;exception.c'],['../gpu_8c.html#a16a6dbd07aa9f49d1b164250247fd453',1,'DPCR():&#160;gpu.c'],['../spu_8c.html#a16a6dbd07aa9f49d1b164250247fd453',1,'DPCR():&#160;spu.c']]],
+  ['dpcr',['DPCR',['../psxgpu_8h.html#a16a6dbd07aa9f49d1b164250247fd453',1,'psxgpu.h']]],
   ['draw_5fmode_5fpacket',['draw_mode_packet',['../gpu_8c.html#a1169f22891c70cb7ba8c32606dd7eb85',1,'gpu.c']]],
   ['draw_5fon_5fdisplay',['draw_on_display',['../structGsDrawEnv.html#a308c7cb65b6076160c23905b2946fcfe',1,'GsDrawEnv']]],
   ['drawfbrect',['DrawFBRect',['../psxgpu_8h.html#a320780cd9d0ef406a3af629ccfa35f39',1,'DrawFBRect(int x, int y, int w, int h, int r, int g, int b):&#160;gpu.c'],['../gpu_8c.html#a320780cd9d0ef406a3af629ccfa35f39',1,'DrawFBRect(int x, int y, int w, int h, int r, int g, int b):&#160;gpu.c']]],

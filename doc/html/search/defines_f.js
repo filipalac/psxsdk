@@ -1,9 +1,9 @@
 var searchData=
 [
   ['rand_5fmax',['RAND_MAX',['../stdlib_8h.html#a690f251553b39fd4f31894826141b61a',1,'stdlib.h']]],
-  ['rcnt_5fcount',['RCNT_COUNT',['../psxsdk_8c.html#ad2eeed1bdd633142d2fbf9f1eea64da8',1,'psxsdk.c']]],
-  ['rcnt_5fmode',['RCNT_MODE',['../psxsdk_8c.html#a296bf3ab71fa32a34287cb3f10fce691',1,'psxsdk.c']]],
-  ['rcnt_5ftarget',['RCNT_TARGET',['../psxsdk_8c.html#a0a7eb16941bbf14b3ad43f13c23b724f',1,'psxsdk.c']]],
+  ['rcnt_5fcount',['RCNT_COUNT',['../psx_8h.html#ad2eeed1bdd633142d2fbf9f1eea64da8',1,'psx.h']]],
+  ['rcnt_5fmode',['RCNT_MODE',['../psx_8h.html#a296bf3ab71fa32a34287cb3f10fce691',1,'psx.h']]],
+  ['rcnt_5ftarget',['RCNT_TARGET',['../psx_8h.html#a0a7eb16941bbf14b3ad43f13c23b724f',1,'psx.h']]],
   ['reset_5ferr',['RESET_ERR',['../pad_8c.html#a6c2a7ddaedc9760e1b37b5bfb044f273',1,'pad.c']]],
   ['rindex',['rindex',['../strings_8h.html#a6d8c40946211e7cd7f1798b570a4c406',1,'strings.h']]],
   ['rotate_5fone',['ROTATE_ONE',['../psxgpu_8h.html#a7134882cfdbd7ce65d08684d64481252',1,'psxgpu.h']]],

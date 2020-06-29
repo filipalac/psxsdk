@@ -18,7 +18,7 @@ var searchData=
   ['offs',['offs',['../structvchn__s.html#a9c50870cc1b47101bec61ce62812c1f4',1,'vchn_s']]],
   ['old_5fperiods',['old_periods',['../structModMusic.html#aaaa612da0b0920d51b87972c94e14ac0',1,'ModMusic']]],
   ['old_5fsamples',['old_samples',['../structModMusic.html#a4a05f396814c9fd4cf163fad7ea0f852',1,'ModMusic']]],
-  ['one',['one',['../structpsx__pad__state_1_1extra_1_1negCon.html#ab92a6ae63fc0da597e8c07ad393d6d44',1,'psx_pad_state::extra::negCon::one()'],['../k__tan_8c.html#a7cf126dbeb6f30c606e3b42fea65cfef',1,'one():&#160;k_tan.c']]],
+  ['one',['one',['../structpsx__pad__state_1_1extra_1_1negCon.html#ab92a6ae63fc0da597e8c07ad393d6d44',1,'psx_pad_state::extra::negCon::one()'],['../k__tan_8c.html#a7cf126dbeb6f30c606e3b42fea65cfef',1,'one():&#160;k_tan.c'],['../meidogte_8h.html#a206b6f5362e56b51ca957635350b70b6',1,'ONE():&#160;meidogte.h']]],
   ['onesec_5fbuf',['onesec_buf',['../libc_8c.html#a8fc5c7c9f806edfd9d2dcba0061686fb',1,'libc.c']]],
   ['open',['open',['../fcntl_8h.html#a3ad75e4ab5b8343998fbdb4b40c0973b',1,'open():&#160;fcntl.h'],['../fcntl_8h.html#a4e6b27eba6a2c51d20ab915b58625e99',1,'open(const char *filename, int flags):&#160;fcntl.h']]],
   ['openevent',['OpenEvent',['../psxbios_8h.html#a1eb5d0b3272b48108ee2d2f3daca35ae',1,'psxbios.h']]],
@@ -28,5 +28,6 @@ var searchData=
   ['operator_20new_5b_5d',['operator new[]',['../new_8cc.html#a63ce4f64887b9307317aee5baae6b18f',1,'new.cc']]],
   ['ord_5flist',['ord_list',['../structplayer__s.html#a75deecd14f03db103975b397780485fd',1,'player_s']]],
   ['ord_5fnum',['ord_num',['../struct____attribute____.html#a256530209f2f3965eb7fbbf2a4fb2e32',1,'__attribute__']]],
+  ['outvol',['outvol',['../structvchn__s.html#a2ad247927efff66aa392a83a255644ee',1,'vchn_s']]],
   ['overflow',['OVERFLOW',['../math_8h.html#a1bde9ac0e4c1c736578ab9941eef76c0',1,'math.h']]]
 ];

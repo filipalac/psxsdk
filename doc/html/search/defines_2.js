@@ -1,5 +1,6 @@
 var searchData=
 [
+  ['b',['B',['../hisin_8c.html#a111da81ae5883147168bbb8366377b10',1,'B():&#160;hisin.c'],['../isin_8c.html#a111da81ae5883147168bbb8366377b10',1,'B():&#160;isin.c']]],
   ['bcmp',['bcmp',['../strings_8h.html#a5ff0acc4b4213d656c1fb54275543358',1,'strings.h']]],
   ['bcopy',['bcopy',['../strings_8h.html#a44c4efafeb8def719ad013ce4e3708d2',1,'strings.h']]],
   ['bit_5falloc',['bit_alloc',['../bitstring_8h.html#a486d8a6c943f0d469af831a5cfd2dafd',1,'bitstring.h']]],

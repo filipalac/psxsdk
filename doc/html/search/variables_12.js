@@ -28,6 +28,5 @@ var searchData=
   ['stdout',['stdout',['../libc_8c.html#ac80f4484175bf6c48d7b7ca4e9897ae6',1,'libc.c']]],
   ['steering',['steering',['../structpsx__pad__state_1_1extra_1_1negCon.html#a2b80fffb7562cb5e49a27b39abf6d801',1,'psx_pad_state::extra::negCon']]],
   ['suboffs',['suboffs',['../structvchn__s.html#a1b02ef0b17eb67e13720ba05c670da05',1,'vchn_s']]],
-  ['sysromver_5funavail',['sysromver_unavail',['../psxsdk_8c.html#a540cb1462c9703e24b7106d9b4b14f82',1,'psxsdk.c']]],
   ['system',['system',['../structpsx__info.html#a12e85860d4398f8d56ab61da080e91b7',1,'psx_info::system()'],['../structDIRENTRY.html#af4a5a4c764708f42c4f4396705e0b461',1,'DIRENTRY::system()']]]
 ];

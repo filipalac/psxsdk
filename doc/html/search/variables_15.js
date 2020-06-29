@@ -7,6 +7,9 @@ var searchData=
   ['ver',['ver',['../struct____attribute____.html#a06fbe8067948a00f7c7d3b3972f1b944',1,'__attribute__']]],
   ['version',['version',['../structpsx__info_1_1kernel.html#adf920bd7e3545f508697900f6da60940',1,'psx_info::kernel::version()'],['../structSsVag.html#ad9ab18aa60cbf2641b770dfc0a51d2dc',1,'SsVag::version()']]],
   ['vib_5foffs',['vib_offs',['../structvchn__s.html#a1f1f455fd6b50be9d1ac5d8c205b7e50',1,'vchn_s']]],
-  ['vol',['vol',['../structins.html#ada1b49154d9c1d8050da37526a18335b',1,'ins::vol()'],['../structvchn__s.html#a855108d510f4ea3649e30ec51683be15',1,'vchn_s::vol()'],['../f3m_8c.html#a9a1b920fc586ba344a1d44c5bdcc0bf2',1,'vol():&#160;f3m.c']]],
-  ['volume',['volume',['../structModSample.html#a4162e3c9eb5e2a13fd90f871fc2d950e',1,'ModSample']]]
+  ['vol',['vol',['../structins.html#ada1b49154d9c1d8050da37526a18335b',1,'ins::vol()'],['../f3m_8c.html#a9a1b920fc586ba344a1d44c5bdcc0bf2',1,'vol():&#160;f3m.c']]],
+  ['volume',['volume',['../structModSample.html#a4162e3c9eb5e2a13fd90f871fc2d950e',1,'ModSample']]],
+  ['vx',['vx',['../structVECTOR.html#a1fe3d6691e16974bd1fec2208f7893b9',1,'VECTOR::vx()'],['../structSVECTOR.html#a1e8916a8ffce68cc29bf1b56fba8cd67',1,'SVECTOR::vx()']]],
+  ['vy',['vy',['../structVECTOR.html#aee6a2dfdc66b9d4ddde9974cd561187f',1,'VECTOR::vy()'],['../structSVECTOR.html#a031f59973d8777976fdc2c9adb373747',1,'SVECTOR::vy()']]],
+  ['vz',['vz',['../structVECTOR.html#a420a39a69ffa3d2425d69bf93a6f4dc3',1,'VECTOR::vz()'],['../structSVECTOR.html#a0432603c6d01420022208d0aae7fb68a',1,'SVECTOR::vz()']]]
 ];

@@ -149,6 +149,5 @@ var searchData=
   ['expf',['expf',['../float__wrapper_8c.html#a0c2bc89b8355a89542ac98d9e2120363',1,'expf(float x):&#160;float_wrapper.c'],['../math_8h.html#a0c2bc89b8355a89542ac98d9e2120363',1,'expf(float x):&#160;float_wrapper.c'],['../wrappers_8c.html#a0c2bc89b8355a89542ac98d9e2120363',1,'expf(float x):&#160;wrappers.c']]],
   ['expm1',['expm1',['../s__expm1_8c.html#ae4963ac40f96d4b1fe8af1b1e90a20bb',1,'s_expm1.c']]],
   ['expm1f',['expm1f',['../float__wrapper_8c.html#a5b8d8815f5c801fdbdb7f7767fbf9af4',1,'expm1f(float x):&#160;float_wrapper.c'],['../math_8h.html#a5b8d8815f5c801fdbdb7f7767fbf9af4',1,'expm1f(float x):&#160;float_wrapper.c'],['../wrappers_8c.html#a5b8d8815f5c801fdbdb7f7767fbf9af4',1,'expm1f(float x):&#160;wrappers.c']]],
-  ['extra',['extra',['../structpsx__pad__state.html#a82998866e9a2516123c4b9974f598e9f',1,'psx_pad_state::extra()'],['../struct____attribute____.html#a968577f1acf7a5f34796dffd33830003',1,'__attribute__::extra()']]],
-  ['extra',['extra',['../unionpsx__pad__state_1_1extra.html',1,'psx_pad_state']]]
+  ['extra',['extra',['../unionpsx__pad__state_1_1extra.html',1,'psx_pad_state::extra'],['../structpsx__pad__state.html#a82998866e9a2516123c4b9974f598e9f',1,'psx_pad_state::extra()'],['../struct____attribute____.html#a968577f1acf7a5f34796dffd33830003',1,'__attribute__::extra()']]]
 ];

@@ -15,6 +15,7 @@ var searchData=
   ['clearerr',['clearerr',['../stdio_8h.html#ab5de865c3093158c70bf4bd88a9deea5',1,'clearerr(FILE *stream):&#160;libc.c'],['../libc_8c.html#ab5de865c3093158c70bf4bd88a9deea5',1,'clearerr(FILE *stream):&#160;libc.c']]],
   ['close',['close',['../fcntl_8h.html#aeeff2698944daacf14e8bde82fd04222',1,'close(int d):&#160;fcntl.h'],['../unistd_8h.html#aafbcde67669a1b96577e735ddebd8634',1,'close(int fd):&#160;unistd.h']]],
   ['closeevent',['CloseEvent',['../psxbios_8h.html#aa68ddf0bdc5caa6b015b54934ef0692f',1,'psxbios.h']]],
+  ['compmatrixlv',['CompMatrixLV',['../meidogte_8h.html#aeb63f193a8b05999b6de012ff094452f',1,'meidogte.h']]],
   ['copysign',['copysign',['../s__copysign_8c.html#ad8d1296592a3e783acdd0de21ff58e2e',1,'s_copysign.c']]],
   ['copysignf',['copysignf',['../float__wrapper_8c.html#af7eb976cc28d0a9a6f0827d01611f979',1,'copysignf(float x, float y):&#160;float_wrapper.c'],['../math_8h.html#af7eb976cc28d0a9a6f0827d01611f979',1,'copysignf(float x, float y):&#160;float_wrapper.c'],['../wrappers_8c.html#af7eb976cc28d0a9a6f0827d01611f979',1,'copysignf(float x, float y):&#160;wrappers.c']]],
   ['copysignl',['copysignl',['../float__wrapper_8c.html#a7f67300494b391d2a483566c8d545246',1,'copysignl(long double x, long double y):&#160;float_wrapper.c'],['../math_8h.html#a7f67300494b391d2a483566c8d545246',1,'copysignl(long double x, long double y):&#160;float_wrapper.c'],['../wrappers_8c.html#a7f67300494b391d2a483566c8d545246',1,'copysignl(long double x, long double y):&#160;wrappers.c']]],

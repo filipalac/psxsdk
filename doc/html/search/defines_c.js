@@ -15,7 +15,7 @@ var searchData=
   ['o_5ftrunc',['O_TRUNC',['../fcntl_8h.html#ad1d67e453fb3031f40f8cd3403773813',1,'fcntl.h']]],
   ['o_5fwrlock',['O_WRLOCK',['../fcntl_8h.html#a48558e3b7225e41de2c0e0962a3b1bd2',1,'fcntl.h']]],
   ['o_5fwronly',['O_WRONLY',['../fcntl_8h.html#a11b644a8526139c4cc1850dac1271ced',1,'fcntl.h']]],
-  ['one',['one',['../k__tan_8c.html#a7cf126dbeb6f30c606e3b42fea65cfef',1,'k_tan.c']]],
+  ['one',['one',['../k__tan_8c.html#a7cf126dbeb6f30c606e3b42fea65cfef',1,'one():&#160;k_tan.c'],['../meidogte_8h.html#a206b6f5362e56b51ca957635350b70b6',1,'ONE():&#160;meidogte.h']]],
   ['open',['open',['../fcntl_8h.html#a3ad75e4ab5b8343998fbdb4b40c0973b',1,'fcntl.h']]],
   ['overflow',['OVERFLOW',['../math_8h.html#a1bde9ac0e4c1c736578ab9941eef76c0',1,'math.h']]]
 ];

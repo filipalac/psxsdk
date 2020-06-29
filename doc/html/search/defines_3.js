@@ -1,5 +1,6 @@
 var searchData=
 [
+  ['c',['C',['../hisin_8c.html#ac4cf4b2ab929bd23951a8676eeac086b',1,'C():&#160;hisin.c'],['../isin_8c.html#ac4cf4b2ab929bd23951a8676eeac086b',1,'C():&#160;isin.c']]],
   ['calculate_5freal_5fpadding',['calculate_real_padding',['../printf_8c.html#a5c9789bbd9b0c46ddb94d6064aba0a9a',1,'printf.c']]],
   ['calculate_5freal_5fpadding_5fhex',['calculate_real_padding_hex',['../printf_8c.html#a857a858cd6079d456d3a7c83007f9911',1,'printf.c']]],
   ['cdreg',['CDREG',['../cdrom_8c.html#a900c9faaefc8223c81506616a3af08a8',1,'cdrom.c']]],
